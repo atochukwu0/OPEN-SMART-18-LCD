@@ -1,4 +1,4 @@
 # OPEN-SMART-18-LCD
 OPEN SMART 1.8 INCH LCD - KICAD FILES
 
-![alt text](http://url/to/img.png)
+![KICAD OPENSMART 1.8 i,ch LCD](https://github.com/ccadic/OPEN-SMART-18-LCD/blob/master/opensmart18.jpg)
